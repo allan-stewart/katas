@@ -6,7 +6,7 @@
 
 Create code that given five six-sided dice and a Yahtzee category will return the score.
 
-Example: `int Score(string category, string[] dice)`
+Example: `int Score(string category, int[] dice)`
 
 ## Problem Description:
 
