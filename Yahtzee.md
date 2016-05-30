@@ -19,8 +19,8 @@ In Yahtzee the following categories exist:
 * `Four of a kind`: If there are four dice with the same number, the player scores the sum of all the dice. Otherwise the player scores 0.
     * For example, 2, 5, 2, 2, 2 scored on "four of a kind" gives 13 points.
 * `Full house`: If the dice are a pair and a three of a kind, the player scores 25 points, otherwise 0.
-    * For example, 1, 1, 2, 2, 2 placed on "full house" gives 8 points.
-    * Note that 4, 4, 4, 4, 4 is not "full house" because the pair and three of a kind must be difference die values.
+    * For example, 1, 1, 2, 2, 2 placed on "full house" gives 25 points.
+    * Note that 4, 4, 4, 4, 4 is not "full house" because the pair and three of a kind must be different die values.
 * `Small straight`: If four of the dice are in sequence (e.g. 1, 2, 3, 4), the player scores 30 points, otherwise 0.
     * For example: 1, 3, 4, 5, 6 scored on "small straight" gives 30 points, but 1, 2, 4, 5, 6 gives 0 points.
 * `Large straight`: If all five dice are in sequence (e.g. 2, 3, 4, 5, 6), the player scores 40 points, otherwise 0.
