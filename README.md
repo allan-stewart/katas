@@ -6,6 +6,7 @@ Code katas are problems (usually small) used to practice programming skills and 
 You may try the same kata multiple times with different implementations or to see how quickly you can solve it.
 Try practicing your keyboard shortcuts, or experiment with techniques like test driven development or dependency injection.
 
+* [Fibonacci Variations](FibonacciVariations.md)
 * [Rock-Paper-Scissors-Lizard-Spock](RockPaperScissorsLizardSpock.md)
 * [Roman Numerals](RomanNumerals.md)
 * [Water Retention](WaterRetention.md)
