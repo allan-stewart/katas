@@ -2,13 +2,13 @@
 
 (Adapted from http://codingdojo.org/cgi-bin/index.pl?KataYahtzee)
 
-## Objective:
+## Objective
 
 Create code that given five six-sided dice and a Yahtzee category will return the score.
 
 Example: `int Score(string category, int[] dice)`
 
-## Problem Description:
+## Problem Description
 
 In Yahtzee the following categories exist:
 
