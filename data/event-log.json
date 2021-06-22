@@ -1,0 +1,512 @@
+[
+  {
+    "team": "Federation",
+    "player": "Kira",
+    "points": 3
+  },
+  {
+    "team": "Federation",
+    "player": "Worf",
+    "points": 3
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Finn",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Vader",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "LaForge",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Vader",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Vader",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "Dax",
+    "points": 1
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Vader",
+    "points": 3
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Vader",
+    "points": 1
+  },
+  {
+    "team": "Federation",
+    "player": "Kira",
+    "points": 1
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Fett",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "R2",
+    "points": 3
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Leia",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "LaForge",
+    "points": 1
+  },
+  {
+    "team": "Federation",
+    "player": "LaForge",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Obi-Wan",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Finn",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "Kira",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "Dax",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Obi-Wan",
+    "points": 1
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "R2",
+    "points": 1
+  },
+  {
+    "team": "Federation",
+    "player": "Kira",
+    "points": 3
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Leia",
+    "points": 1
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Vader",
+    "points": 3
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "R2",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "Spock",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "R2",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Leia",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Fett",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "McCoy",
+    "points": 1
+  },
+  {
+    "team": "Federation",
+    "player": "Kira",
+    "points": 1
+  },
+  {
+    "team": "Federation",
+    "player": "Picard",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Leia",
+    "points": 1
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Finn",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Fett",
+    "points": 1
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "R2",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "Dax",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Jyn",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "Spock",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Jyn",
+    "points": 1
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Fett",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "Worf",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "Worf",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "Spock",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Leia",
+    "points": 1
+  },
+  {
+    "team": "Federation",
+    "player": "Worf",
+    "points": 3
+  },
+  {
+    "team": "Federation",
+    "player": "Dax",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "Picard",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "Kira",
+    "points": 3
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "R2",
+    "points": 1
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Vader",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "LaForge",
+    "points": 1
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Vader",
+    "points": 1
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Fett",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Finn",
+    "points": 3
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Fett",
+    "points": 1
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "R2",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "Picard",
+    "points": 3
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Obi-Wan",
+    "points": 3
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Leia",
+    "points": 1
+  },
+  {
+    "team": "Federation",
+    "player": "McCoy",
+    "points": 3
+  },
+  {
+    "team": "Federation",
+    "player": "Kira",
+    "points": 1
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Leia",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Leia",
+    "points": 1
+  },
+  {
+    "team": "Federation",
+    "player": "Worf",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Obi-Wan",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "Picard",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "LaForge",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Fett",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "Worf",
+    "points": 1
+  },
+  {
+    "team": "Federation",
+    "player": "Worf",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Finn",
+    "points": 1
+  },
+  {
+    "team": "Federation",
+    "player": "Spock",
+    "points": 1
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Leia",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "LaForge",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "R2",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Jyn",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "Worf",
+    "points": 1
+  },
+  {
+    "team": "Federation",
+    "player": "Kira",
+    "points": 1
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Finn",
+    "points": 1
+  },
+  {
+    "team": "Federation",
+    "player": "Dax",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "Kira",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Leia",
+    "points": 1
+  },
+  {
+    "team": "Federation",
+    "player": "Kira",
+    "points": 3
+  },
+  {
+    "team": "Federation",
+    "player": "Picard",
+    "points": 2
+  },
+  {
+    "team": "Federation",
+    "player": "Dax",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "R2",
+    "points": 1
+  },
+  {
+    "team": "Federation",
+    "player": "Spock",
+    "points": 1
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Finn",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Jyn",
+    "points": 1
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Obi-Wan",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Jyn",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Jyn",
+    "points": 1
+  },
+  {
+    "team": "Federation",
+    "player": "Dax",
+    "points": 3
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Leia",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Obi-Wan",
+    "points": 3
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Leia",
+    "points": 2
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Fett",
+    "points": 1
+  },
+  {
+    "team": "Federation",
+    "player": "Spock",
+    "points": 1
+  },
+  {
+    "team": "Federation",
+    "player": "McCoy",
+    "points": 1
+  },
+  {
+    "team": "Space Fantasy",
+    "player": "Obi-Wan",
+    "points": 2
+  }
+]
