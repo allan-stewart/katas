@@ -12,6 +12,7 @@ Try practicing your keyboard shortcuts, or experiment with techniques like test 
 * [Water Retention](WaterRetention.md)
 * [Yahtzee](Yahtzee.md)
 * [Event Sourced Score Keeping](EventSourcedScoreKeeping.md)
+* [Mocking Orchestrator](MockingOrchestrator.md)
 
 ## Architectural Katas
 Similar to code katas, are a form of practice.
