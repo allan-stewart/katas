@@ -136,7 +136,7 @@ From this data you should find:
     * Picard 1
     * McCoy 1
     * Dax 1
-* The top scorers for the first 10 points (window start: 1, size: 10) are:
+* The top scorers for the first 10 events (window start: 1, size: 10) are:
     * Vader scored 5 times for 10 points
     * Kira scored 1 time for 3 points
     * Worf scored 1 time for 3 points
